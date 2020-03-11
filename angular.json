@@ -131,5 +131,8 @@
       }
     }
   },
-  "defaultProject": "Organic-Shop"
+  "defaultProject": "Organic-Shop",
+  "cli": {
+    "analytics": false
+  }
 }
